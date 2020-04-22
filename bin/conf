@@ -1,0 +1,11 @@
+contents="happyfreedomcoffee_contents"
+# 記事リポジトリの名前
+contents_owner="happyfreedomcoffee"
+# 記事リポジトリの持ち主のユーザー名
+wwwdir="/var/www"
+# 記事リポジトリやシステムリポジトリを置くディレクトリ
+contentsdir="$wwwdir/$contents"
+# 記事リポジトリのパス
+appdir="$wwwdir/happyfreedomcoffee_system"
+# システムリポジトリをインストールするパス
+
